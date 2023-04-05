@@ -5,7 +5,7 @@
 
 $ apt install git
 
-$ git clone https://github.com/SenTDI/Infinite-Bomber-android
+$ git clone https://github.com/hiyajomaho213/Infinite-Bomber-android
 
 $ cd Infinite-Bomber-android
 
